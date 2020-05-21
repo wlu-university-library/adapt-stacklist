@@ -1,7 +1,7 @@
 {
   "name": "adapt-stacklist",
   "description": "Items fly in one at a time, alternating from left to right, when the learner clicks a button. Demo available.",
-  "version": "5.0.1",
+  "version": "5.0.5",
   "framework": ">=5",
   "displayName": "Stack List",
   "component": "stacklist",
